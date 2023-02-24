@@ -1,0 +1,28 @@
+{
+    "dataProducts": [
+     {
+        "name": "HEADSET GAMER HAVIT HV-H2232 D",
+        "code": "CODE143706",
+        "price": "$3000",
+        "image": "./assets/image44.png"
+     },
+     {
+        "name": "HEADSET GAMER NOGA STORMER",
+        "code": "CODE185756",
+        "price": "$2550",
+        "image": "./assets/image46.png"
+     },
+     {
+        "name": "HEADSET GAMER CONSTRICTOR",
+        "code": "CODE143456",
+        "price": "$2700",
+        "image": "./assets/image45.png"
+     },
+     {
+        "name": "MOUSE GAMER STORMER",
+        "code": "CODE895432",
+        "price": "$1500",
+        "image": "./assets/stx1.png"
+     }
+    ]
+}

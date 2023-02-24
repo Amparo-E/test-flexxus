@@ -1,0 +1,33 @@
+.content_form {
+  height: auto;
+  width: 100%;
+}
+
+.content_input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 64px 0;
+}
+
+.content_input input {
+  width: 1036px;
+  height: 56px;
+  border: 1px solid #d9d9d9;
+  padding: 0 12px;
+  border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px;
+  outline: inherit;
+}
+
+.content_input button {
+  width: 98px;
+  height: 56px;
+  background: #343434;
+  color: #ffffff;
+  border-bottom-right-radius: 8px;
+  border-top-right-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
